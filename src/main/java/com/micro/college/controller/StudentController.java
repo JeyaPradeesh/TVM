@@ -12,7 +12,7 @@ import java.util.Optional;
 @RestController
 @RequestMapping("/college")
 public class StudentController {
- ///for microservice
+
     @Autowired
     private StudentService studentService;
 
